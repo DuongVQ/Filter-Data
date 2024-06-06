@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Keyboard 1",
+        "price": 410000,
+        "quantity": 10,
+        "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-libcsrh30rte6b",
+        "nature": {
+            "color": ["blue", "white"],
+            "size": "long",
+            "type": "wireless"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Keyboard 2",
+        "price": 380000,
+        "quantity": 15,
+        "image": "https://img.ws.mms.shopee.vn/vn-11134201-7qukw-lexq2l7twyoa3a",
+        "nature": {
+            "color": ["blue", "white", "pink"],
+            "size": "long",
+            "type": "wired"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Keyboard 3",
+        "price": 450000,
+        "quantity": 13,
+        "image": "https://th.bing.com/th/id/OIP.18xhNP8vlbQZhpxwZhW1-QHaHa?w=1000&h=1000&rs=1&pid=ImgDetMain",
+        "nature": {
+            "color": ["blue", "white"],
+            "size": "shot",
+            "type": "wireless"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Keyboard 4",
+        "price": 390000,
+        "quantity": 18,
+        "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ll1hgk7uiua370",
+        "nature": {
+            "color": ["blue", "white", "pink"],
+            "size": "long",
+            "type": "wired"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Keyboard 5",
+        "price": 580000,
+        "quantity": 9,
+        "image": "https://lzd-img-global.slatic.net/g/p/29c47f0cfb154ce774fab7bfd36ac567.png_720x720q80.jpg_.webp",
+        "nature": {
+            "color": ["green", "pink"],
+            "size": "long",
+            "type": "wireless"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Keyboard 6",
+        "price": 420000,
+        "quantity": 14,
+        "image": "https://img.lazcdn.com/g/p/a43bace29d538684a43c2b97595644e3.jpg_720x720q80.jpg",
+        "nature": {
+            "color": ["blue", "white"],
+            "size": "long",
+            "type": "wired"
+        }
+    }
+]
